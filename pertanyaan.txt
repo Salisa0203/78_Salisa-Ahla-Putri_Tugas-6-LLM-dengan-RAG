@@ -1,0 +1,30 @@
+1. Apa definisi baterai secara elektrokimia serta mengapa baterai lithium-ion dikategorikan sebagai baterai sekunder yang ramah lingkungan dibandingkan generasi pendahulunya (Ni-Cd dan Ni-MH)?
+2. Jelaskan empat kelebihan utama baterai lithium-ion dibandingkan jenis baterai sekunder lainnya, termasuk perbandingan energi yang dihasilkan pada berat yang sama!
+3. Siapa tokoh peneliti pertama yang memperkenalkan konsep interkalasi pada baterai lithium-ion pada tahun 1970, apa judul penelitiannya, serta material apa yang digunakannya sebagai anoda dan katoda?
+4. Mengapa penggantian material anoda dari logam lithium menjadi grafit oleh Rachid Yazami dkk. pada tahun 1980 menjadi tonggak penting bagi komersialisasi baterai lithium-ion?
+5. Sebutkan lima parameter utama yang ditinjau dalam pengembangan material elektroda sebelum baterai lithium-ion dapat dipasarkan secara komersial!
+6. Sebutkan empat komponen utama penyusun baterai lithium-ion beserta fungsi spesifik dari masing-masing komponen tersebut!
+7. Karakteristik apa saja yang wajib dimiliki oleh suatu material agar layak digunakan sebagai anoda pada baterai lithium-ion?
+8. Kelompokkan contoh-contoh material anoda yang disebutkan dalam literatur ke dalam material berbasis karbon dan material non-karbon (oksida logam/polimer)!
+9. Apa saja syarat karakteristik material katoda yang baik, dan mengapa material pertama yang digunakan sebagai katoda ($LiCoO_2$) masih memiliki keterbatasan?
+10. Jelaskan perbedaan tiga jenis struktur kristal material katoda ($LiMO_2$, $LiM_2O_4$, dan $LiMPO_4F$) yang dipaparkan dalam literatur!
+11. Bandingkan kelebihan, kekurangan, serta contoh senyawa kimia dari elektrolit cair dan elektrolit padat pada baterai lithium-ion!
+12. Mengapa separator memiliki peran krusial dalam aspek keamanan baterai lithium-ion, dan sifat fisik-kimia apa saja yang harus dimiliki material separator?
+13. Jelaskan secara rinci arah pergerakan elektron dan ion lithium saat proses pengisian daya (*charging*) dan pemakaian listrik (*discharging*) berdasarkan fenomena interkalasi!
+14. Tuliskan persamaan reaksi reduksi-oksidasi yang terjadi pada katoda ($LiCoO_2$) dan anoda ($LiC_6$) selama proses pengisian maupun pemakaian baterai!
+15. Bandingkan karakteristik tegangan nominal, kapasitas spesifik, usia siklus (*cycle life*), dan contoh aplikasi dari keenam jenis baterai lithium-ion ($LiCoO_2$, $LiMn_2O_4$, NMC, $LiFePO_4$, $LiNiCoAlO_2$, dan $Li_4Ti_5O_{12}$)!
+16. Bagaimana data Badan Pusat Statistik (BPS) menggambarkan lonjakan jumlah kendaraan bermotor di Indonesia dalam rentang waktu sepuluh tahun (2008–2018), dan apa dampak lingkungan maupun energi yang ditimbulkannya?
+17. Sebutkan empat keuntungan utama penggunaan kendaraan listrik dibandingkan kendaraan konvensional berbahan bakar minyak (BBM)!
+18. Apa isi dan tujuan utama dari Peraturan Presiden Republik Indonesia Nomor 55 Tahun 2019 terkait transportasi jalan?
+19. Mengapa lulusan Sekolah Menengah Kejuruan (SMK), khususnya pada program keahlian Teknik Kendaraan Ringan dan Teknik Elektronika, dituntut untuk menguasai konsep kendaraan listrik dan baterai ion lithium (BIL)?
+20. Identifikasi tiga akar permasalahan yang dihadapi SMK Muhammadiyah 6 Karanganyar dalam mempersiapkan lulusan yang kompeten di bidang kendaraan listrik!
+21. Bagaimana metode pendekatan pemecahan masalah dan bentuk partisipasi mitra yang diterapkan dalam kegiatan pengabdian masyarakat di SMK Muhammadiyah 6 Karanganyar?
+22. Rincikan materi edukasi apa saja yang disampaikan kepada siswa SMK Muhammadiyah 6 Karanganyar pada kegiatan tanggal 27 Agustus 2020 untuk mencegah bahaya kesalahan pengoperasian baterai!
+23. Analisis hasil perbandingan pretes dan postes mengenai pengetahuan siswa terhadap pengoperasian dan bahaya penggunaan baterai isi ulang, serta sebutkan indikator-indikator penilaiannya!
+24. Bagaimana perubahan persentase pemahaman siswa sebelum dan sesudah edukasi terkait aplikasi baterai pada lima perangkat sehari-hari (laptop, *handphone*, kamera, senter, dan kendaraan listrik)?
+25. Apa saran tindak lanjut yang direkomendasikan oleh tim pengabdian masyarakat agar kompetensi siswa SMK terkait produksi baterai semakin optimal?
+26. *(Integrasi)* Berdasarkan karakteristik teknis berbagai jenis baterai lithium-ion pada artikel pertama (seperti kepadatan energi, daya, dan *cycle life*), jenis baterai lithium-ion manakah yang paling relevan diterapkan untuk mendukung program percepatan kendaraan listrik dan perangkaian sepeda/motor listrik yang dibahas pada artikel kedua? Jelaskan alasannya!
+27. *(Integrasi)* Bagaimana pemahaman mengenai fungsi dan sifat material **separator** serta **elektrolit** pada artikel pertama dapat menjelaskan urgensi edukasi pencegahan bahaya kesalahan pengisian daya (*charging*) dan penyimpanan baterai isi ulang pada artikel kedua?
+28. *(Integrasi)* Artikel pertama menyatakan bahwa kualitas bahan elektroda (anoda dan katoda) sangat menentukan performa dan umur pakai baterai, sedangkan artikel kedua menyoroti minimnya praktik produksi baterai di tingkat SMK. Menurut kedua literatur tersebut, aspek teknis komponen baterai apa saja yang perlu dipahami siswa SMK jika kelak dilibatkan langsung dalam praktik perakitan atau produksi sel baterai?
+29. *(Integrasi)* Hubungkan fenomena **interkalasi** dan reaksi redoks saat proses *charging–discharging* (artikel pertama) dengan fenomena peningkatan efisiensi konversi energi pada kendaraan listrik dibandingkan kendaraan berbahan bakar minyak (artikel kedua)!
+30. *(Integrasi)* Kedua literatur sama-sama menegaskan bahwa baterai lithium-ion merupakan teknologi kunci yang ramah lingkungan. Sintesis alasan dari sudut pandang **komposisi material kimia** (artikel pertama) dan **dampak makro transportasi nasional** (artikel kedua) mengapa baterai lithium-ion dinilai sebagai solusi ramah lingkungan!
